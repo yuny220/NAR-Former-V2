@@ -58,15 +58,25 @@ bash test.sh
 ## The example organization of dataset folder
 
 |__dataset
+
     |--unseen_structure
+
         |--gt.txt
+
         |--gt_stage.txt
+
         |__onnx
+
             |--...
+
             |--...
+
     |--nasbench101
+
         |__all.pt
+
     |__nasbench201
+    
         |__all.pt
 
 ## Acknowledge
