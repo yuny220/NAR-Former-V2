@@ -1,9 +1,6 @@
 # NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning
 
 This is the source code for paper:<br> 
-NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction
-
-This is the source code for paper:<br> 
 [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/abs/2306.10792)
 
 ## The link to the released files
@@ -76,7 +73,7 @@ bash test.sh
         |__all.pt
 
     |__nasbench201
-    
+
         |__all.pt
 
 ## Acknowledge
